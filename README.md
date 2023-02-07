@@ -4,9 +4,7 @@
 Tour de Force is a game where your weapon becomes more powerful as you perform "tricks", such as jumping, staying mid-air, and doing 360's (a full circular motion in a short period of time).
 
 ## Download
-Windows:
-
-**TODO: insert download link to build**
+[Windows](https://github.com/Fredrick117/Tour-de-Force/tree/main/Downloads)
 
 ## How to Play
 This game employs standard FPS controls, but only supports mouse and keyboard at this time. The control scheme is as follows:
